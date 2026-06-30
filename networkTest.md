@@ -29,3 +29,7 @@
 <input type="radio" name="question">
 <input type="radio" name="question">
 <input type="radio" name="question">
+
+- ( ) 選択肢A
+- (*) 選択肢B
+- ( ) 選択肢C
